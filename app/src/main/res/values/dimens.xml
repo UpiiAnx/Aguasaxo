@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Opacidad (alpha) inicial y final -->
+    <dimen name="icon_animator_alpha_from">1.0</dimen>
+    <dimen name="icon_animator_alpha_to">0.5</dimen>
+
+    <!-- Escala inicial y final -->
+    <dimen name="icon_animator_scale_from">1.0</dimen>
+    <dimen name="icon_animator_scale_to">1.2</dimen>
+
+
+</resources>

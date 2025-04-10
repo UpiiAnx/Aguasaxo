@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Duración de la animación en milisegundos (ej: 1000ms = 1s) -->
+    <integer name="icon_animator_duration">1000</integer>
+
+    <!-- Rotación: grados iniciales y finales -->
+    <integer name="icon_animator_rotate_from">0</integer>
+    <integer name="icon_animator_rotate_to">360</integer>
+
+    <!-- Traslación vertical (ej: movimiento en Y) -->
+    <integer name="icon_animator_translate_from_rotate">0</integer>
+
+    <!-- Valores para translateX/translateY -->
+    <integer name="icon_animator_translate_from">0</integer> <!-- Posición inicial -->
+    <integer name="icon_animator_translate_to">50</integer>  <!-- Posición final (ajustar según necesidad) -->
+</resources>
